@@ -1,5 +1,3 @@
-# README (1)
-
 # 🇬🇧 English
 
 # TURBO RACE 3D
